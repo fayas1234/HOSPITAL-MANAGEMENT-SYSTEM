@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T16:53:15.595Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="DU0PrxAgDBdnEB5p9-zL" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-06T16:54:37.005Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="BAdIxmFpeuUCfPlsTHIP" version="20.6.0" type="github">
   <diagram id="FDFtJTZFI4Nm9ofiiGQl" name="Page-1">
     <mxGraphModel dx="2556" dy="1969" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -211,6 +211,15 @@
         </mxCell>
         <mxCell id="jrIbbQbrpgduAfuJvKAY-71" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="730.5" y="505" width="31" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="jrIbbQbrpgduAfuJvKAY-72" value="Medicine_id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fontSize=24;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="575.5" y="752" width="155" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="jrIbbQbrpgduAfuJvKAY-73" value="" style="endArrow=none;html=1;rounded=0;fontSize=24;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="jrIbbQbrpgduAfuJvKAY-72" source="jrIbbQbrpgduAfuJvKAY-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="713" y="658" as="sourcePoint" />
+            <mxPoint x="561" y="692" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
