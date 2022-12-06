@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T18:17:30.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="geq8e82Wb_PNnCU7XgHL" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-06T18:19:01.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="jLr3yK68nvKzEWavy48d" version="20.6.0" type="github">
   <diagram id="FDFtJTZFI4Nm9ofiiGQl" name="Page-1">
     <mxGraphModel dx="3725" dy="1969" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -437,6 +437,15 @@
         <mxCell id="jrIbbQbrpgduAfuJvKAY-138" value="N" style="resizable=0;html=1;align=right;verticalAlign=bottom;fontSize=24;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="816" y="546" as="geometry">
             <mxPoint x="8" y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jrIbbQbrpgduAfuJvKAY-141" value="Lab_Fee" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1554.77" y="972" width="176.5" height="74.45" as="geometry" />
+        </mxCell>
+        <mxCell id="jrIbbQbrpgduAfuJvKAY-142" value="" style="endArrow=none;html=1;rounded=0;fontSize=24;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.926;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jrIbbQbrpgduAfuJvKAY-105" target="jrIbbQbrpgduAfuJvKAY-141">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1403" y="846" as="sourcePoint" />
+            <mxPoint x="1545.25" y="1088" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
