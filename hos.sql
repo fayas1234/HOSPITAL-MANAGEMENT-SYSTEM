@@ -94,3 +94,8 @@ update patient set medid=3 where pid=3;
 
 update patient set medid=3 where pid=4;
 
+insert into staff values(1,'hari','m','hari@gmail.com','assistant','9745088976','s123');
+
+insert into staff values(2,'bob','m','bob@gmail.com','manager','9745077976','s123');
+
+insert into staff values(3,'robin','m','robin@gmail.com','manager','9745077900','s123');
